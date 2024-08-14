@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Arial Narrow';
+    src: url('./ARIALN.TTF');
+}
+*, canvas {
+    font-family: Arial Narrow, open-sans;
+    
+}
